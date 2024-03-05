@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">SIT708-Task2.1P</string>
+
+    <string-array name="conversion_types">
+        <item>Length</item>
+        <item>Weight</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="length_units">
+        <item>Inch</item>
+        <item>Foot</item>
+        <item>Yard</item>
+        <item>Mile</item>
+    </string-array>
+
+    <string-array name="weight_units">
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Ton</item>
+    </string-array>
+
+    <string-array name="temperature_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
